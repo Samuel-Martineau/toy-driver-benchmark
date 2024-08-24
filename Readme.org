@@ -1,7 +1,7 @@
 * Toy PostgreSQL driver to benchmark database connections[fn:1]
-#+begin_comment
+#+begin_quote
 Please forgive the quality of this code, this is my first time experimenting with Rust. I will no doubt look back upon this in a not so distant future with great shame, but such is the process of learning.
-#+end_comment
+#+end_quote
 
 * Footnotes
 
