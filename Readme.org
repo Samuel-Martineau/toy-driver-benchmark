@@ -1,0 +1,8 @@
+* Toy PostgreSQL driver to benchmark database connections[fn:1]
+#+begin_comment
+Please forgive the quality of this code, this is my first time experimenting with Rust. I will no doubt look back upon this in a not so distant future with great shame, but such is the process of learning.
+#+end_comment
+
+* Footnotes
+
+[fn:1] This project was originally started as part of my 2024 internship at [[https://xata.io][Xata]].  
